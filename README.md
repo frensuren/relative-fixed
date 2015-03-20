@@ -15,7 +15,7 @@ In your web page:
 <script src="dist/relativeFixed.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $.relativeFixed(); // "awesome"
 });
 </script>
 ```
