@@ -1,0 +1,27 @@
+{
+  "name": "relativeFixed",
+  "title": "Relative fixed plugin",
+  "description": "A simple plugin to fix position of the element with respect to its parent div",
+  "version": "0.1.0",
+  "homepage": "https://github.com/frensuren/relative-fixed",
+  "author": {
+    "name": "SUREN",
+    "email": "suren@surendrashrestha.com.np",
+    "url": "surendrashrestha.com.np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frensuren/relative-fixed"
+  },
+  "bugs": "https://github.com/frensuren/relative-fixed/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/frensuren/relative-fixed/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.11.0"
+  },
+  "keywords": []
+}
